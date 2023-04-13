@@ -1,4 +1,4 @@
 # cosmicOS
 <picture>
-https://imgur.com/0QsdpM5
+<img src="https://imgur.com/0QsdpM5" />
 </picture>
