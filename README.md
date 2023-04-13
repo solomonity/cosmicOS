@@ -5,5 +5,5 @@ An visual and sound operating structure for the mystical quantum probability int
 
 # Usage: 
 ```
-./geomsol.sh
+./oracle.sh
 ```
